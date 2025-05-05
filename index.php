@@ -3,6 +3,6 @@
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
-    <a href="./web/WEB-INF/jsp/user/index.php">Click here to visit Example.com</a>
+    <a href="Food Website/index.php">Click here to visit Example.com</a>
 </body>
 </html>
